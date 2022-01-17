@@ -1,0 +1,21 @@
+name: angel_example
+description: A Angel 2|3 dart framework example
+# version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  #Angel 2
+  #angel_framework: ^2.1.1
+  #angel_configuration: ^2.2.0
+  #angel_static: ^2.1.3
+  logging: any
+  #Angel 3
+  angel3_framework: any
+  angel3_configuration: any
+  angel3_static: any
+
+dev_dependencies:
+  
